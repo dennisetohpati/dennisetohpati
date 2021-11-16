@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dennise Tohpati
-- 👀 I’m graduated with BEng in Aerospace Engineering
+- 👀 I graduated with BEng in Aerospace Engineering
 - 🌱 I’m currently learning everything related to data science and artificial Intelligence
 - 📫 To reach me just click the link in my bio!
 
