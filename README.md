@@ -4,18 +4,18 @@
 #include <iostream>
 
 int main(){
-    cout << "Do or Do not There is No Try";
+    std::cout << "Do or Do not There is No Try" << std::endl;
 }
 ```
 
 ## 📝  Summary:
 Hello, I am ***Dennise Tohpati***,
 
-I graduated from Queen's University with BEng in Aerospace Engineering, and currently working as a Reseach and Development (R&D) Engineer at Blow Moulding Technologies. My daily work focuses on research, mechatronics, and design optimisation (please check my resume for more detail). 
+After earning a BEng in Aerospace Engineering from Queen's University, I currently serve as a Research and Development Engineer at Blow Moulding Technologies. My daily responsibilities entail mechatronics, research, and design optimization (please refer to my resume for further information).
 
-I am relatively new in the programming world, and have taken a huge amount interest and time in developing my skill in this area. My philosophy in programming is **<em>understanding the fundamental</em>** on how a code that i wrote works in a lower-level; hence, allows me to have more controll and easy to optimise. 
+While I'm relatively new to the world of programming, I've devoted a significant amount of interest and time to honing my skills in this field. My programming philosophy centers on comprehending the fundamentals of how the code I've written functions at a lower level, thereby enabling me to exercise more control and streamline optimization.
 
-I am a core believer where curiosity and collaboration are core values which brings innovations! If you'd like to collaborate in any projects with me, please hit me up from contact section.
+I firmly believe that innovation stems from curiosity and collaboration. If you're interested in collaborating with me on any projects, please don't hesitate to contact me via the contact section.
 
 ## 🔎 Fun Facts about me:
 <p>Something that might break the ice; </p>
